@@ -18,6 +18,8 @@ namespace GoogleSpreadSheetCSVReader
         {
             string url = string.Format(baseUrl, key, gid);
 
+            Debug.Log("Get Data From : " + url);
+
             using (UnityWebRequest webRequest = UnityWebRequest.Get(url))
             {
                 yield return webRequest.SendWebRequest();
