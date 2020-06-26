@@ -1,7 +1,7 @@
 # GoogleSpreadSheetCSVReader
 
 1. 웹에 테이블 개시 후 키값과 gid 기록
-(ex: https://docs.google.com/spreadsheets/d/e/2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b/pub?gid=1765475500&single=true&output=csv)
+![2](https://user-images.githubusercontent.com/22088638/85839368-ce94d980-b7d5-11ea-8a72-f2cef76874b8.png)
 
 2. 코드작성
 
