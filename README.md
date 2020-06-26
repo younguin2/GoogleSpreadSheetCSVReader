@@ -4,10 +4,14 @@
 ex:  https://docs.google.com/spreadsheets/d/e/2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b/pub?gid=1765475500&single=true&output=csv
 
 2. 코드작성
+
 호출
+
 GoogleSpreadSheetCSVReader.SpreadSheetCSVReader.GetSpreadSheetData<SpecShopProduct>("2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b", "1765475500", GetSpecDataShopProductCallback);
 
 콜백
+
+
 private void GetSpecDataShopProductCallback(SpecShopProduct[] data)
 {
 
