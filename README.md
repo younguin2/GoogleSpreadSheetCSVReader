@@ -10,7 +10,7 @@
 
 호출
 
-GoogleSpreadSheetCSVReader.SpreadSheetCSVReader.GetSpreadSheetData<SpecShopProduct>("2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b", "1765475500", GetSpecDataShopProductCallback);
+![4](https://user-images.githubusercontent.com/22088638/85840188-0cdec880-b7d7-11ea-9777-864e0cba46d8.PNG)
 
 콜백
 
