@@ -4,8 +4,7 @@
 
 ![2](https://user-images.githubusercontent.com/22088638/85839368-ce94d980-b7d5-11ea-8a72-f2cef76874b8.png)
 
-
-https://docs.google.com/spreadsheets/d/e/<font color="green">2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b</font>/pub?gid=1765475500&single=true&output=csv
+![3](https://user-images.githubusercontent.com/22088638/85840114-e751bf00-b7d6-11ea-868f-68022c66964f.PNG)
 
 # 2. 코드작성
 
