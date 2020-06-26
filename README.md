@@ -3,7 +3,7 @@
 1. 웹에 테이블 개시 후 키값과 gid 기록
 
       
-https://user-images.githubusercontent.com/22088638/85839368-ce94d980-b7d5-11ea-8a72-f2cef76874b8.png
+![2](https://user-images.githubusercontent.com/22088638/85839368-ce94d980-b7d5-11ea-8a72-f2cef76874b8.png)
 
 2. 코드작성
 
