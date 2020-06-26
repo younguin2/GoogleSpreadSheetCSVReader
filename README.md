@@ -4,7 +4,10 @@
 
 ![2](https://user-images.githubusercontent.com/22088638/85839368-ce94d980-b7d5-11ea-8a72-f2cef76874b8.png)
 
-2. 코드작성
+
+https://docs.google.com/spreadsheets/d/e/<font color="green">2PACX-1vR0IG9cy5IiEvudoCxzg57gWuTdL6asC3Uv0X53El_S0ZoMh0LdtUQFPnecSdIq14uc6TODrqMZD38b</font>/pub?gid=1765475500&single=true&output=csv
+
+# 2. 코드작성
 
 호출
 
@@ -18,7 +21,7 @@ private void GetSpecDataShopProductCallback(SpecShopProduct[] data)
 
 }
 
-3.주의사항
+# 3.주의사항
 회사 계정으로 시트연동하면 보안때문에 안됨 (개인 계정 추천)
 
 웹에 게시후 나온 주소의 키값 이용 (웹주소창 주소x)
