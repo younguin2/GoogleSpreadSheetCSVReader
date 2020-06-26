@@ -14,11 +14,7 @@
 
 콜백
 
-
-private void GetSpecDataShopProductCallback(SpecShopProduct[] data)
-{
-
-}
+![5](https://user-images.githubusercontent.com/22088638/85840254-2849d380-b7d7-11ea-8c5b-7c68097bccdd.PNG)
 
 # 3.주의사항
 회사 계정으로 시트연동하면 보안때문에 안됨 (개인 계정 추천)
